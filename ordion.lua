@@ -194,9 +194,9 @@ local Library do
         Theme = {
             ["Background"] = FromRGB(16, 16, 16),
             ["Inline"] = FromRGB(22, 22, 22),
-            ["Page Background"] = FromRGB(48, 48, 48),
+            ["Page Background"] = FromRGB(35, 35, 35),
             ["Border"] = FromRGB(13, 15, 14),
-            ["Outline"] = FromRGB(25, 25, 25),
+            ["Outline"] = FromRGB(27, 31, 39),
             ["Accent"] = FromRGB(222, 119, 107),
             ["Element"] = FromRGB(27, 27, 27),
             ["Hovered Element"] = FromRGB(18, 18, 18),
