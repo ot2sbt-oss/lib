@@ -197,7 +197,7 @@ local Library do
             ["Page Background"] = FromRGB(35, 35, 35),
             ["Border"] = FromRGB(16, 18, 21),
             ["Outline"] = FromRGB(27, 31, 39),
-            ["Accent"] = FromRGB(222, 119, 107),
+            ["Accent"] = FromRGB(228, 105, 105),
             ["Element"] = FromRGB(27, 27, 27),
             ["Hovered Element"] = FromRGB(18, 18, 18),
             ["Text"] = FromRGB(215, 215, 215),
