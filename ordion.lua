@@ -192,14 +192,14 @@ local Library do
         Flags = { },
         
         Theme = {
-            ["Background"] = FromRGB(16, 16, 16),
-            ["Inline"] = FromRGB(22, 22, 22),
-            ["Page Background"] = FromRGB(35, 35, 35),
-            ["Border"] = FromRGB(16, 18, 21),
-            ["Outline"] = FromRGB(27, 31, 39),
+			["Background"] = FromRGB(15, 15, 20),
+            ["Inline"] = FromRGB(20, 20, 25),
+            ["Page Background"] = FromRGB(30, 30, 35),
+            ["Border"] = FromRGB(10, 10, 10),
+            ["Outline"] = FromRGB(27, 27, 32),
             ["Accent"] = FromRGB(228, 105, 105),
-            ["Element"] = FromRGB(27, 27, 27),
-            ["Hovered Element"] = FromRGB(18, 18, 18),
+            ["Element"] = FromRGB(33, 33, 36),
+            ["Hovered Element"] = FromRGB(40, 40, 43),
             ["Text"] = FromRGB(215, 215, 215),
             ["Text Border"] = FromRGB(0, 0, 0)
         },
